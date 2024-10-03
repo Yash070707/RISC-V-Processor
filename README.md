@@ -1,25 +1,6 @@
 # RISC-V-Processor
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://riscv.org">
-    <img src="images/RISCV.png" alt="Logo" width="300" height="56">
-  </a>
-
-  <h3 align="center">Open Source RISC ISA</h3>
-
-  <p align="center">
-    Verilog implementation of 32-bit RISC-V processor!
-    <br />
-    <a href="https://riscv.org/technical/specifications/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-  </p>
-</p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
