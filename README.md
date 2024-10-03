@@ -19,17 +19,6 @@
 
 In this project we implement a 32-bit, RISC-V ISA based processor in verilog. The sub-modules that are used and their interaction with each other are shown in the following picture.
 
-<p align="center">
-    <img src = "images/Processor.png">
-    <br>
-    </br>
-    <p>Output waveform using GTKWave:
-    </p>
-    <p align = "center">
-    <img src = "images/Waveform.png" width="607" height="387">
-    </p>
-</p>
-
  
 
 
@@ -101,5 +90,3 @@ gtkwave output_wave.vcd
 Project Link: [https://github.com/Yash070707/RISC-V-Processor](https://github.com/Yash070707/RISC-V-Processor)
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
