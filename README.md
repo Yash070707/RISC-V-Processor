@@ -1,6 +1,25 @@
 # RISC-V-Processor
 
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://riscv.org">
+    <img src="images/RISCV.png" alt="Logo" width="300" height="56">
+  </a>
+
+  <h3 align="center">Open Source RISC ISA</h3>
+
+  <p align="center">
+    Verilog implementation of 32-bit RISC-V processor!
+    <br />
+    <a href="https://riscv.org/technical/specifications/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+  </p>
+</p>
+
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -11,7 +30,6 @@
   * [iVerilog](#iVerilog)
   * [GTKWave](#GTKWave)
 * [Getting Started](#getting-started)
-* [License](#license)
 
 
 
@@ -95,3 +113,12 @@ vvp gen-compiled
 ```sh
 gtkwave output_wave.vcd
 ```
+
+
+
+<!-- CONTACT -->
+Project Link: [https://github.com/Yash070707/RISC-V-Processor](https://github.com/Yash070707/RISC-V-Processor)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: images/screenshot.png
